@@ -33,5 +33,5 @@ Ocean, etc).
 2. Uso de EJBs para controle transacional.
 3. Uso de servidor de aplicação Wildfly ou OpenLiberty.
 
-o Disponibilizar a configuração do servidor de aplicação no repositório Git online junto com o código fonte.
+Disponibilizar a configuração do servidor de aplicação no repositório Git online junto com o código fonte.
 1. Testes unitários com jUnit
